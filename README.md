@@ -1,0 +1,1 @@
+# intelligens-mini-serverszoba
