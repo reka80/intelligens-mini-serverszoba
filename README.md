@@ -21,6 +21,7 @@ A projekt célja egy ESP32 mikrokontrollerre, lokális Mosquitto MQTT brokerre, 
 ## Biztonsági megjegyzés
 A nyilvános repozitóriumba feltöltött konfigurációs és forráskód fájlokból a Wi-Fi hitelesítő adatok, a helyi hálózati IP-címek és a ThingsBoard eszközazonosító tokenek eltávolításra kerültek.
 
+## Működési bemutató (Videó)
 
 https://github.com/user-attachments/assets/d7948b70-36f7-4b3f-be26-d41c15a1d06b
 
